@@ -1,0 +1,11 @@
+C:\Users\Mishra\Desktop\Networth Tracker\api\NetworthTracker\NetWorthTracker.Services\bin\Debug\netcoreapp3.1\NetWorthTracker.Services.deps.json
+C:\Users\Mishra\Desktop\Networth Tracker\api\NetworthTracker\NetWorthTracker.Services\bin\Debug\netcoreapp3.1\NetWorthTracker.Services.dll
+C:\Users\Mishra\Desktop\Networth Tracker\api\NetworthTracker\NetWorthTracker.Services\bin\Debug\netcoreapp3.1\NetWorthTracker.Services.pdb
+C:\Users\Mishra\Desktop\Networth Tracker\api\NetworthTracker\NetWorthTracker.Services\bin\Debug\netcoreapp3.1\NetWorthTracker.Core.dll
+C:\Users\Mishra\Desktop\Networth Tracker\api\NetworthTracker\NetWorthTracker.Services\bin\Debug\netcoreapp3.1\NetWorthTracker.Core.pdb
+C:\Users\Mishra\Desktop\Networth Tracker\api\NetworthTracker\NetWorthTracker.Services\obj\Debug\netcoreapp3.1\NetWorthTracker.Services.csprojAssemblyReference.cache
+C:\Users\Mishra\Desktop\Networth Tracker\api\NetworthTracker\NetWorthTracker.Services\obj\Debug\netcoreapp3.1\NetWorthTracker.Services.AssemblyInfoInputs.cache
+C:\Users\Mishra\Desktop\Networth Tracker\api\NetworthTracker\NetWorthTracker.Services\obj\Debug\netcoreapp3.1\NetWorthTracker.Services.AssemblyInfo.cs
+C:\Users\Mishra\Desktop\Networth Tracker\api\NetworthTracker\NetWorthTracker.Services\obj\Debug\netcoreapp3.1\NetWorthTracker.Services.csproj.CopyComplete
+C:\Users\Mishra\Desktop\Networth Tracker\api\NetworthTracker\NetWorthTracker.Services\obj\Debug\netcoreapp3.1\NetWorthTracker.Services.dll
+C:\Users\Mishra\Desktop\Networth Tracker\api\NetworthTracker\NetWorthTracker.Services\obj\Debug\netcoreapp3.1\NetWorthTracker.Services.pdb

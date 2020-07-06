@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetWorthTracker.Api", "WebApplication1\NetWorthTracker.Api.csproj", "{53E6E111-055C-4A51-9487-2D1CDE9BEF68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetWorthTracker.Core", "NetworkTracker.Core\NetWorthTracker.Core.csproj", "{EA8C7FC9-C312-483D-9F65-485C1E4376AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetWorthTracker.Services", "NetWorthTracker.Services\NetWorthTracker.Services.csproj", "{FC486A1C-6E21-47A8-A8C4-8ED74C84A760}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53E6E111-055C-4A51-9487-2D1CDE9BEF68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53E6E111-055C-4A51-9487-2D1CDE9BEF68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53E6E111-055C-4A51-9487-2D1CDE9BEF68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53E6E111-055C-4A51-9487-2D1CDE9BEF68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA8C7FC9-C312-483D-9F65-485C1E4376AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA8C7FC9-C312-483D-9F65-485C1E4376AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA8C7FC9-C312-483D-9F65-485C1E4376AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA8C7FC9-C312-483D-9F65-485C1E4376AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC486A1C-6E21-47A8-A8C4-8ED74C84A760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC486A1C-6E21-47A8-A8C4-8ED74C84A760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC486A1C-6E21-47A8-A8C4-8ED74C84A760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC486A1C-6E21-47A8-A8C4-8ED74C84A760}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23706857-F300-4B60-83B2-40916E2EFE5A}
+	EndGlobalSection
+EndGlobal

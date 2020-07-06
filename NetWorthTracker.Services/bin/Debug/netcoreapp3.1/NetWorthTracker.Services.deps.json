@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NetWorthTracker.Services/1.0.0": {
+        "dependencies": {
+          "NetWorthTracker.Core": "1.0.0"
+        },
+        "runtime": {
+          "NetWorthTracker.Services.dll": {}
+        }
+      },
+      "NetWorthTracker.Core/1.0.0": {
+        "runtime": {
+          "NetWorthTracker.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetWorthTracker.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NetWorthTracker.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
